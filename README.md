@@ -63,7 +63,7 @@ There are 6 section heading in Markdown
 
    ```css
    body {
-     front-family: "Space Mono", monospace;
+     font-family: "Space Mono", monospace;
      margin: 0;
    }
 
