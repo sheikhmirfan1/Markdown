@@ -25,3 +25,63 @@ Markdown is a lightweight markup language for creating formatted text using a pl
 - Los Angeles
 - Tokyo
 - New York
+
+## Headline
+
+There are 6 section heading in Markdown
+
+# H1
+
+## H2
+
+### H3
+
+#### H4
+
+##### H5
+
+###### H6
+
+## Code
+
+1. html
+
+   ```html
+   <!DOCTYPE html>
+   <html lang="en">
+     <head>
+       <meta charset="UTF-8" />
+       <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+       <title>Document</title>
+     </head>
+     <body></body>
+   </html>
+   ```
+
+1. CSS
+
+   ```css
+   body {
+     front-family: "Space Mono", monospace;
+     margin: 0;
+   }
+
+   P {
+     font-size: 16px;
+     font-weight: 400;
+   }
+   ```
+
+1. JavaScript
+
+   ```javascript
+   "use strict";
+
+   let numberOfStudents = 9;
+   let numberOfTeachers = 2;
+
+   let totalNumberOfIndividualsInClass = numberOfStudents + numberOfTeachers;
+
+   console.log(totalNumberOfIndividualsInClass);
+   ```
